@@ -1,0 +1,11 @@
+XXX X6 20220302 15002 Berlin reserved
+MGL S10 20240312 1 Dubai waiting
+BMW E92 20010322 1500982 Slobozia parked
+PCY Z100 21001231 0 Milano waiting
+DCA 1310 19801102 22000002 Medias out-of-use
+TYO X69 20150302 300002 Amsterdam in-use
+TTO Y69 20180322 3012002 Riad waiting
+ZZZ Z01 19990406 1500000 Amsterdam waiting
+MML M2 22000122 203 Madrid reserved
+OLD 01 18000305 199922291 Hamburg reserved
+MMM MM6 20000101 200 Amsterdam in-use

@@ -1,0 +1,7 @@
+# ninja log v5
+14	372	7049985116432985	CMakeFiles/PriorityQueue.dir/ShortTest.cpp.obj	e7e93fe46d8ae36c
+5	421	7049985116939417	CMakeFiles/PriorityQueue.dir/PriorityQueue.cpp.obj	cbc9e0cbfd45d9ae
+422	620	7049985118794124	PriorityQueue.exe	47ebf761d439a1b3
+7	1355	7049977726336092	CMakeFiles/PriorityQueue.dir/App.cpp.obj	2e814947be5b15ba
+2	341	7312749192108419	build.ninja	b06e480723a80794
+25	1402	7049977726884717	CMakeFiles/PriorityQueue.dir/ExtendedTest.cpp.obj	d16b9c18407f1812

@@ -1,0 +1,8 @@
+# ninja log v5
+4	614	7312742978916546	build.ninja	8f2b8afc95c3d754
+4	730	7062091845486900	CMakeFiles/SortedMap.dir/ShortTest.cpp.obj	36dd06df24d573cb
+12	387	7062091842053466	CMakeFiles/SortedMap.dir/SortedMap.cpp.obj	4421e8e5f55d3f63
+730	904	7062091847176764	SortedMap.exe	72f331bb4a73aeb6
+5	404	7062084120865364	CMakeFiles/SortedMap.dir/SMIterator.cpp.obj	68ef12cb2df75a8b
+5	635	7062080420061700	CMakeFiles/SortedMap.dir/App.cpp.obj	3a1f0c0859dde030
+28	1925	7062077516051197	CMakeFiles/SortedMap.dir/ExtendedTest.cpp.obj	b3f26689d4fb4d64

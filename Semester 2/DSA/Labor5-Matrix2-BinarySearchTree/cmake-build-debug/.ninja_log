@@ -1,0 +1,7 @@
+# ninja log v5
+13	142	7080165578784197	CMakeFiles/Matrix2.dir/ShortTest.cpp.obj	3232f5a30c8a8d78
+4	182	7080165579196402	CMakeFiles/Matrix2.dir/Matrix.cpp.obj	3777f79a7614e214
+4	539	7080143338497577	CMakeFiles/Matrix2.dir/ExtendedTest.cpp.obj	1475e9ddef605e5
+14	569	7080144625653116	CMakeFiles/Matrix2.dir/App.cpp.obj	611bf1e80ec4805b
+21	172	7080165579106426	CMakeFiles/Matrix2.dir/MatrixIterator.cpp.obj	9994a268afd39d3b
+183	350	7080165580796123	Matrix2.exe	467d48eb6d48c8b2

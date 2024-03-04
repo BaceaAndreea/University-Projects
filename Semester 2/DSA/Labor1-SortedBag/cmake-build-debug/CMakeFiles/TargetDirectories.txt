@@ -1,0 +1,3 @@
+C:/Users/Andreea Bacea/Desktop/anul I/anul I sem II/DSA/SortedBag/cmake-build-debug/CMakeFiles/sortedbag.dir
+C:/Users/Andreea Bacea/Desktop/anul I/anul I sem II/DSA/SortedBag/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Andreea Bacea/Desktop/anul I/anul I sem II/DSA/SortedBag/cmake-build-debug/CMakeFiles/rebuild_cache.dir
